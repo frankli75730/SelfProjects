@@ -1,2 +1,2 @@
 # SelfProjects
-Self_Practice_Study
+Projects in master branch
